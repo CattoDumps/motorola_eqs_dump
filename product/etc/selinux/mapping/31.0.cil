@@ -1,0 +1,13 @@
+(typeattributeset arcore_app_31_0 (arcore_app))
+(expandtypeattribute (arcore_app_31_0) true)
+(typeattribute arcore_app_31_0)
+(typeattributeset vendor_hal_systemhelper_hwservice_31_0 (vendor_hal_systemhelper_hwservice))
+(expandtypeattribute (vendor_hal_systemhelper_hwservice_31_0) true)
+(typeattribute vendor_hal_systemhelper_hwservice_31_0)
+(typeattributeset vendor_systemhelper_app_31_0 (vendor_systemhelper_app))
+(expandtypeattribute (vendor_systemhelper_app_31_0) true)
+(typeattribute vendor_systemhelper_app_31_0)
+(typeattributeset moto_stylus_app_31_0 (moto_stylus_app))
+(expandtypeattribute (moto_stylus_app_31_0) true)
+(typeattribute moto_stylus_app_31_0)
+
